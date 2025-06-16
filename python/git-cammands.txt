@@ -1,0 +1,42 @@
+git status
+git rm --cache testing.py
+git status
+git add .
+git status
+git rm --cache testing.py
+git status
+git commit -m "added testing.py file"
+  git status
+  git add testing.py
+  git status
+  git commit -m "added python.py file by soumya gupta"
+  git status
+  mkdir python
+  cd /python
+  pwd
+  touch test2.py
+  clear
+  git status
+  ls
+  git add python
+  git status
+  rmdir python
+  rm python
+  rmdir python
+  clear
+  rm testing.py
+  git status
+  ls
+  ls testing.py
+  clear
+  33 git status
+  34 git restore testing.py
+  35 git status
+  36 git rm --cache testing.py
+  37 git status
+  38 git commit -m "added"
+  39 git status
+  40 git add .
+  41 git status
+  42 git commit -m "added"
+  43 git status
