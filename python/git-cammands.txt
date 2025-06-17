@@ -40,3 +40,8 @@ git commit -m "added testing.py file"
   41 git status
   42 git commit -m "added"
   43 git status
+
+  2 history
+   3 git status
+   4 git push origin master
+   5 git remote -v
