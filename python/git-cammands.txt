@@ -27,6 +27,8 @@ git commit -m "added testing.py file"
   rm testing.py
   git status
   ls
+
+This is to commit remotely
   ls testing.py
   clear
   33 git status
