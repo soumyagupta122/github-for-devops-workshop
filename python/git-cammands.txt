@@ -47,3 +47,5 @@ This is to commit remotely
    3 git status
    4 git push origin master
    5 git remote -v
+
+now this also
